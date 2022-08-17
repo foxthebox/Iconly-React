@@ -10,8 +10,6 @@
 
 ## Based on Iconly Essential Icons [Iconly v2](https://ui8.net/piqodesign/products/iconly-essential-icons)
 
-🌐 [Website](https://react-iconly.jrgarciadev.com/)
-
 ### Sets
 
 - Bold
@@ -161,4 +159,4 @@ Please adhere to this project's `CODE_OF_CONDUCT`.
 
 ## License
 
-MIT © [FoxTheBox](https://github.com/jrgarciadev)
+MIT © [FoxTheBox]
